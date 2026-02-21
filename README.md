@@ -8,7 +8,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🔭 I'm currently **Finishing my master**
-- 🌱 I'm currently learning **CUDA and C**
+- 🌱 I'm currently learning **various technicals subjects about cybersecurity**
 - 👯 I'm looking to collaborate on **Open source project**
 - 💬 Ask me about **Computer Architecture, Security and Cloud**
 - 📫 How to reach me **arthur.fraipont29@gmail.com**
