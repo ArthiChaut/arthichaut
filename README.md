@@ -19,7 +19,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=OpenJDK&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![SQL]([https://img.shields.io/badge/-Sql-000?&logo=Sql](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1))
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=AssemblyScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
