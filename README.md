@@ -3,7 +3,7 @@
 ### M.Sc. Computer Science Student (Cybersecurity track) from UCLouvain (Belgium)
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=arthichaut.arthichaut&color=00cf00)
 
-*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `21-02-20025`
+*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `21-02-2025`
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
